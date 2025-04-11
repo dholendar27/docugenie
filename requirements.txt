@@ -1,0 +1,9 @@
+langchain_core
+langchain_community
+langchain_chroma
+langchain
+fastapi
+uvicorn
+python-multipart
+langchain-google-genai
+python-dotenv
